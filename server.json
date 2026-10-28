@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "co.squish/squish",
+  "title": "Squish",
+  "description": "Manage your Squish domains, DNS, hosting, backups and site files from your AI assistant.",
+  "version": "1.0.0",
+  "websiteUrl": "https://squish.co/developers",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://api.squish.co/mcp" }
+  ]
+}
